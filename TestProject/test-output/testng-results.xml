@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59988" started-at="2020-02-18T18:15:32Z" finished-at="2020-02-18T18:16:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59988" started-at="2020-02-18T18:15:32Z" finished-at="2020-02-18T18:16:32Z">
+      <class name="WebApp.TestProject.TestRun">
+        <test-method status="PASS" signature="browser_open()[pri:0, instance:WebApp.TestProject.TestRun@1b604f19]" name="browser_open" is-config="true" duration-ms="32516" started-at="2020-02-18T23:45:32Z" finished-at="2020-02-18T23:46:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_open -->
+        <test-method status="PASS" signature="home_page()[pri:0, instance:WebApp.TestProject.TestRun@1b604f19]" name="home_page" duration-ms="5256" started-at="2020-02-18T23:46:04Z" finished-at="2020-02-18T23:46:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- home_page -->
+        <test-method status="PASS" signature="vactions_tab()[pri:0, instance:WebApp.TestProject.TestRun@1b604f19]" name="vactions_tab" duration-ms="22184" started-at="2020-02-18T23:46:09Z" finished-at="2020-02-18T23:46:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vactions_tab -->
+      </class> <!-- WebApp.TestProject.TestRun -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
